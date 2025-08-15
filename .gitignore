@@ -182,7 +182,6 @@ Desktop.ini
 *~
 
 # Project specific
-output/
 *.xlsx
 *.xls
 *.csv
