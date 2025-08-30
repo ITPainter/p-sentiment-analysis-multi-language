@@ -182,9 +182,6 @@ Desktop.ini
 *~
 
 # Project specific
-*.xlsx
-*.xls
-*.csv
 *.log
 *.tmp
 *.temp

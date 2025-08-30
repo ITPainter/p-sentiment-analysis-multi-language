@@ -48,8 +48,8 @@ ENGLISH_MODELS = {
 
 # Japanese models
 JAPANESE_MODELS = {
-    'primary': "cl-tohoku/bert-base-japanese-v3",           # Main model
-    'alternative': "rinna/japanese-roberta-base",            # Alternative model
+    'primary': "cl-tohoku/bert-base-japanese-v3",            # Main model
+    'alternative': "rinna/japanese-roberta-base",             # Alternative model
     'fallback': "megagonlabs/roberta-base-japanese-sentiment"  # Fallback model
 }
 
