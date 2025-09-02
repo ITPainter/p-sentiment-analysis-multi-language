@@ -280,7 +280,7 @@ Open source project for educational and research purposes.
 
 ## 📞 Support and Issues
 
-For project-related questions or bug reports, please submit them through GitHub Issues.
+gangdung@gmail.com
 
 ---
 
